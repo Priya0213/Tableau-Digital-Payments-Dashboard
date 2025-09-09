@@ -1,25 +1,16 @@
-# Digital Payments and Transactions Dashboard 📊
+# Retail Analytics Case Study 🛍️
 
-This project presents an **interactive Tableau dashboard** that explores trends in India's **digital transaction ecosystem** across age groups, cities, and payment methods.
+This project builds an **end-to-end retail analytics pipeline** inspired by **Instacart and Walmart**, connecting **customer behavior → business impact**.
 
-🔗 **View the interactive dashboard on Tableau Public:**  
-[Click Here](https://public.tableau.com/app/profile/priyanka.kachhap/viz/SalesInsights_17567093669800/Dashboard1?publish=yes)
-
-## 📂 Dataset
-The dataset used in this project can be found here:  
-[transactions.csv](data/transactions.csv)
-
-## 🔑 Key Insights
-- ✨ **Age Group 3** leads with the highest adoption → 12,000+ transactions  
-- 🌆 **Delhi & Mumbai** dominate → crossing 5M+ transactions each  
-- 💳 **UPI/ID payments** are catching up fast with Phone Number methods → strong shift in preference  
-
-## 🛠 Tools & Technologies
-- Tableau Public  
-- Data Visualization & Analytics  
-
-## 📸 Dashboard Preview
-![Dashboard Screenshot](Dashboard.png)
+## 🔗 📂 Dataset
+- [Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)  
+- [Walmart Weekly Sales](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
 
 ---
-💡 *This project highlights my ability to turn raw data into business-ready insights using Tableau.*
+
+## 🛠 Tools & Technologies
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, prophet)  
+- SQL (DuckDB / SQLite)  
+- Tableau / Power BI / Looker Studio  
+- GitHub for version control  
+
