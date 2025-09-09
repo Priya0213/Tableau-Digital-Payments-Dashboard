@@ -1,5 +1,4 @@
-# Tableau-Digital-Payments-Dashboard
-# Digital Payments and Transactions Dashboard 📊
+# Tableau-Digital-Payments-Dashboard 📊
 
 This project presents an **interactive Tableau dashboard** that explores trends in India's **digital transaction ecosystem** across age groups, cities, and payment methods.
 
